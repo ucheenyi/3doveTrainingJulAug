@@ -367,27 +367,8 @@ type command     # The tool identifier
 **Concept**: Connecting to the global workshop community
 
 ```bash
-# Community Resources (Demo only - explain concepts)
-# Online manuals: Web-based documentation with search
-# Community forums: Technical Q&A platforms
-# Practice platforms: Interactive learning environments
+
 ```
-
-**Technical Community Resources**:
-- **Online manual pages**: Web-based versions with search functionality
-- **Programming Q&A sites**: Extensive Linux question databases
-- **Dedicated Unix/Linux forums**: Specialized technical communities
-- **Community discussion platforms**: General Linux help and discussions
-- **Open source repositories**: Project documentation and code examples
-- **Official documentation**: Standards and training materials
-
-**Documentation Hierarchy**:
-1. **Built-in help** (--help, man, info)
-2. **Package documentation** (/usr/share/doc/)
-3. **Project websites** (official documentation)
-4. **Community resources** (forums, wikis)
-5. **Books and tutorials** (comprehensive learning)
-
 ---
 
 #### **Lab Challenge: Workshop Mastery Test (20 minutes)**
